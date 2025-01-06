@@ -1,5 +1,5 @@
 public class Merci {
-    public void Merci() {
+    public static void main(String[] args) {
         System.out.println("Merci");
     }
 }
